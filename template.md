@@ -1,3 +1,8 @@
+<!--
+  This template file is copied from https://github.com/rust-lang/rfcs/blob/master/0000-template.md
+  which is created by Rust Project Developers and is licensed under MIT or Apache License.
+-->
+
 # Summary
 
 [summary]: #summary
