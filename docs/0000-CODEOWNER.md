@@ -1,4 +1,4 @@
-[RFCs](https://github.com/approvers/RFCs)のCODEOWNERSについて
+[RFCs](https://github.com/approvers/RFCs)にCODEOWNERSを追加する
 
 # Summary
 
@@ -24,7 +24,7 @@
 以下の手順でRFCsにCODEOWNERSを追加します。
 
 まず、Approvers Organizationに`moderator`というTeamを作成します。
-`moderator`には次のDicordのロールを付与されている人を参加させます。
+`moderator`には次のDicordのロールが付与されている人を参加させます。
 
 - 全知全能の神
 - 限界治安部隊
